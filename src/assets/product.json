@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "name": "Margherita Pizza",
+        "amount": 100,
+        "shopName": "Pizza Palace",
+        "foodType": "Italian",
+        "picture": "margherita-pizza.jpg",
+        "latest": true
+    },
+    {
+        "id": 2,
+        "name": "Sushi Platter",
+        "amount":200,
+        "shopName": "Sushi World",
+        "foodType": "Japanese",
+        "picture": "Sushi Platte.jpg",
+        "latest": false
+    },
+    {
+        "id": 3,
+        "name": "Tacos",
+        "amount":250,
+        "shopName": "Taco Town",
+        "foodType": "Mexican",
+        "picture": "TacoBell.jpg",
+        "latest": true
+    },
+    {
+        "id": 4,
+        "name": "Cheeseburger",
+        "amount":110,
+        "shopName": "Burger Barn",
+        "foodType": "American",
+        "picture": "Cheeseburge.webp",
+        "latest": false
+    },
+    {
+        "id": 5,
+        "name": "Pad Thai",
+        "amount": 69,
+        "shopName": "Thai Delight",
+        "foodType": "Thai",
+        "picture": "Pad Thai.jpg",
+        "latest": true
+    },
+    {
+        "id": 6,
+        "name": "Caesar Salad",
+        "amount": 79,
+        "shopName": "Salad Stop",
+        "foodType": "Salad",
+        "picture": "Caesar Salad.jpg",
+        "latest": false
+    },
+    {
+        "id": 7,
+        "name": "Chicken Biryani",
+        "amount": 119,
+        "shopName": "Biryani House",
+        "foodType": "Indian",
+        "picture": "Chicken Biryani.jpg",
+        "latest": true
+    },
+    {
+        "id": 8,
+        "name": "Pho",
+        "amount": 99,
+        "shopName": "Pho Paradise",
+        "foodType": "Vietnamese",
+        "picture": "Pho.jpg",
+        "latest": false
+    },
+    {
+        "id": 9,
+        "name": "Gelato",
+        "amount": 89,
+        "shopName": "Gelato Heaven",
+        "foodType": "Dessert",
+        "picture": "Gelato.jpeg",
+        "latest": true
+    },
+    {
+        "id": 10,
+        "name": "Falafel Wrap",
+        "amount": 79,
+        "shopName": "Wrap It Up",
+        "foodType": "Middle Eastern",
+        "picture": "Falafel Wrap.jpg",
+        "latest": false
+    }
+]
